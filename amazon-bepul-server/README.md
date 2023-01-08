@@ -2,9 +2,10 @@
 
 
 - [x] Visa cart bo'lishi kerak(xisobida kamida **1$** bo'lishi kerak)
-- Amazon saytidan profil ochish
-* Ubuntu server olish(bepul)
-+ PuTTY orqali serverga bog'lanish
+
+1. Amazon saytidan profil ochish
+2. Ubuntu server olish(bepul)
+3. PuTTY orqali serverga bog'lanish
 
 
 
