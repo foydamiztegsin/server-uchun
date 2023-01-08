@@ -155,7 +155,7 @@
 
 
 > *Save Private Key*
- ![Amazon](images/a01.PNG)
+ ![Amazon](images/p01.PNG)
 
 <hr>
 <hr>
