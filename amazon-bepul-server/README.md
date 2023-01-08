@@ -164,6 +164,7 @@
 
 > *PuTTY* - dasturiga kirib oling! Rasmda ko'rsatilgan joyga *IP* addressingizni kiriting!
  - *SSH* - bo'limiga kiring!
+ 
  ![Amazon](images/p1.PNG)
 
 <hr>
