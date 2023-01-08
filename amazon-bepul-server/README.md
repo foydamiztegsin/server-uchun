@@ -17,13 +17,13 @@
 <hr>
 
 
-> *Mail pochtangiZ va hisob nomini yozing*
+> *Pochtangiz va hisob nomini kiriting*
  ![Amazon](images/a2.PNG)
 
 <hr>
 
 
-> *Pochtangizga kelgan sms kodni yozing!*
+> *Pochtangizga kelgan sms kodni kiriting!*
  ![Amazon](images/a4.PNG)
 
 <hr>
@@ -35,8 +35,65 @@
 <hr>
 
 
-> *Telefon raqamingiz va Shaxsiy ma'lumotlaringizni yozing!*
+> *Telefon raqamingiz va Shaxsiy ma'lumotlaringizni kiriting!*
  ![Amazon](images/a6.PNG)
 
 <hr>
+
+
+> *Visa carta ma'lumotlaringizni kiriting!*
+ ![Amazon](images/a7.PNG)
+
+<hr>
+
+
+> *Telefon raqamingizni kiriting va rasmda ko'rsatiladigan so'zlarni kiriting!*
+ ![Amazon](images/a8.PNG)
+
+<hr>
+
+
+> *Telefon raqamingizni kelgan sms kodni kiriting!*
+ ![Amazon](images/a9.PNG)
+
+<hr>
+
+
+> *Rasmda ko'rsatilgan Bepul qismi tanlang!*
+ ![Amazon](images/a10.PNG)
+
+<hr>
+
+
+> *Rasmda ko'rsatilgandek bajaring!*
+ ![Amazon](images/a11.PNG)
+
+<hr>
+
+
+> *Hisobingizga kirish uchun qaytadan pochtangiz va parolingizni kiriting!*
+ ![Amazon](images/a12.PNG)
+
+<hr>
+
+
+> *Hisobingizda rasmdagidek oyna hosil bo'lsa hammasi :+1:*
+ ![Amazon](images/a14.PNG)
+
+<hr>
+<hr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
