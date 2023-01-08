@@ -7,6 +7,8 @@
 2. Ubuntu server olish(bepul)
 3. PuTTY orqali serverga bog'lanish
 
+<hr>
+<hr>
 
 # Amazon saytidan profil ochish
 
