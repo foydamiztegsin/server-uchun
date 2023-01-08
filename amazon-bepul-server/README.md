@@ -1,0 +1,1 @@
+- [x] Visa cart bo'lishi kerak(xisobida kamida **1$** bo'lishi kerak)
