@@ -36,18 +36,21 @@
 
 
 > *Telefon raqamingiz va Shaxsiy ma'lumotlaringizni kiriting!*
+
  ![Amazon](images/a6.PNG)
 
 <hr>
 
 
 > *Visa carta ma'lumotlaringizni kiriting!*
+
  ![Amazon](images/a7.PNG)
 
 <hr>
 
 
 > *Telefon raqamingizni kiriting va rasmda ko'rsatiladigan so'zlarni kiriting!*
+
  ![Amazon](images/a8.PNG)
 
 <hr>
@@ -60,6 +63,7 @@
 
 
 > *Rasmda ko'rsatilgan Bepul qismi tanlang!*
+
  ![Amazon](images/a10.PNG)
 
 <hr>
