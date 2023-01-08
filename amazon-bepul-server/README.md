@@ -57,6 +57,7 @@
 
 
 > *Telefon raqamingizni kelgan sms kodni kiriting!*
+
  ![Amazon](images/a9.PNG)
 
 <hr>
@@ -87,10 +88,41 @@
 <hr>
 <hr>
 
+# **Ubuntu** server olish
+> *EC2* bo'limni tanlang!
+ ![Amazon](images/a15.PNG)
+
+<hr>
 
 
+> *Agar sizda ham shunday oyna hosil bo'lsa kuting, 24 soatda ishga tushishi kerak odatda 1-2 soatlarda Hisobingiz tasdiqlanishi kerak agar visa cartangiz bilan muammo bo'lmasa*
+ ![Amazon](images/a16.PNG)
+
+<hr>
 
 
+> *Hisobingiz tasdiqlangandan so'ng qayta *EC2* bo'limni tanlang va *Launch instance* bo'limini tanlang!*
+ ![Amazon](images/a17.PNG)
+
+<hr>
+
+
+> *Serveringizga nom bering va **UBUNTU* - ni tanlang*
+ ![Amazon](images/a18.PNG)
+
+<hr>
+
+
+> *Rasmda ko'rsatilgandek bajaring va *Create new key pair* - ni tanlang!*
+ ![Amazon](images/a19.PNG)
+
+<hr>
+
+
+> *Kichik oyna ochiladi va Key uchun nom bering va .pem ni tanlang *E'tibor bering key yaratilishi bilan yuklab olinadi kerakli joyda saqlang faylni* - serverga ulanish uchun ishlatiladi!*
+ ![Amazon](images/a20.PNG)
+
+<hr>
 
 
 
