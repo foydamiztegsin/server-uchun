@@ -144,8 +144,41 @@
 <hr>
 <hr>
 
-# **PuTTY** PuTTY orqali serverga bog'lanish
+# **PuTTY** - orqali serverga bog'lash! Yuklash uchun manzil >>>> [PuTTY](https://www.putty.org)
+> *DAsturni o'rnatganingizda *PuTTYgen* dasturi ham o'rnatiladi va ush dastur orqali Yuklab olgan .pem Faylimizni  *Private* - qilishda foydalanamiz!
+> *Conversions* - bo'limini tanlane!
+
+ ![Amazon](images/p0.PNG)
+ 
+<hr>
+<hr>
 
 
+> *Save Private Key*
+ ![Amazon](images/a01.PNG)
+
+<hr>
+<hr>
 
 
+> *PuTTY* - dasturiga kirib oling! Rasmda ko'rsatilgan joyga *IP* addressingizni kiriting!
+ - *SSH* - bo'limiga kiring!
+ ![Amazon](images/p1.PNG)
+
+<hr>
+
+
+> *PuTTYgen dasturida Private qilib olgan faylingizni shu yerda ko'rsatishingiz kerak va *Open* bo'limi bosing!
+ ![Amazon](images/p2.PNG)
+
+<hr>
+
+
+> 'Terminal ochilishi va sizdan Login kiritishingizni kutadi  Ubuntu serverlariga *ubuntu* - logini kiritiladi va *Enter* - ni bosing Hammasi :+1: !
+ ![Amazon](images/p3.PNG)
+
+<hr>
+<hr>
+
+
+# *E'tiboringiz uchun rahamt* Savollaringiz bo'lsa [Telegram](https://t.me/foydamizteg_sin)
