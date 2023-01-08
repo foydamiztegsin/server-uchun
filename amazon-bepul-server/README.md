@@ -120,15 +120,31 @@
 
 
 > *Kichik oyna ochiladi va Key uchun nom bering va .pem ni tanlang *E'tibor bering key yaratilishi bilan yuklab olinadi kerakli joyda saqlang faylni* - serverga ulanish uchun ishlatiladi!*
+
  ![Amazon](images/a20.PNG)
 
 <hr>
 
 
+> *Launch instance* bo'limini tanlang!*
+ ![Amazon](images/a21.PNG)
+
+<hr>
 
 
+> *Kuting va hammasi :+1: >>> *View all instance*>>*
+ ![Amazon](images/a22.PNG)
+
+<hr>
 
 
+> *Biroz Kuting Running bo'lishini! Pastroqdagi *Public IP* - bo'limida sizngin server IP addressingiz bo'ladi*
+ ![Amazon](images/a24.PNG)
+
+<hr>
+<hr>
+
+# **PuTTY** PuTTY orqali serverga bog'lanish
 
 
 
