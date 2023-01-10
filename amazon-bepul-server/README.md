@@ -3,9 +3,9 @@
 
 - [x] Visa cart (xisobida kamida **1$**) bo'lishi kerak
 
-1. Amazon saytidan hisob(аккаунт) yaratish
-2. Ubuntu server olish(bepul)
-3. PuTTY orqali serverga bog'lanish
+1. **Amazon** saytidan hisob(аккаунт) yaratish
+2. **Ubuntu** server olish(bepul)
+3. **PuTTY** orqali serverga bog'lanish
 
 <hr>
 <hr>
