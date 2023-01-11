@@ -7,8 +7,8 @@
 2. **Ubuntu** server olish(bepul)
 3. **PuTTY** orqali serverga bog'lanish
 4. **WinSCP** orqali serverga bog'lanish
-5. **Loyihani yuklash va Serverni Sozlash
-     > 1. **PuTTY** va **WinSCP** orali loyihani serverga yuklash
+5. **Loyiha** - ni yuklash va Serverni Sozlash
+     > **PuTTY** va **WinSCP** orali loyihani serverga yuklash
 
 <hr>
 <hr>
