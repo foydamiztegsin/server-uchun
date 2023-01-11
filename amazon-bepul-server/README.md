@@ -224,4 +224,4 @@
 
 
 
-# *E'tiboringiz uchun rahamt* Savollaringiz bo'lsa [Telegram](https://t.me/foydamizteg_sin)
+# *E'tiboringiz uchun rahmat* Savollaringiz bo'lsa [Telegram](https://t.me/foydamizteg_sin)
