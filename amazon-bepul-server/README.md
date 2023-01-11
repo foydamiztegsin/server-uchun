@@ -195,7 +195,8 @@
 
 <hr>
 
-> Kerkli serverni tanlab **OK** - ni bosing!
+> Kerakli serverni tanlab **OK** - ni bosing!
+
  ![WinSCP](images/w3.PNG)
 
 <hr>
@@ -205,15 +206,16 @@
 
 <hr>
 
-> Sizdan **username** kiritishni so'rashi mumkin **ubuntu** yozing va **OK**  !
+> Sizdan **username** kiritishni so'rashi mumkin **ubuntu** yozing va **OK** !
+
  ![WinSCP](images/w5.PNG)
 
 <hr>
 
 > Serverga bog'landik :+1:!
-> Qizil belgi bilan belgilangani bu serveringiz hisoblanadi!
-> chap tarafi esa Localniy(SHaxsiy kompyuteringiz!)
-> Loyihani papkasi bilan yoki fayllarini belgilab SERVER tarafga sichqoncha yordamida sudrab olib kelish kifoya!
+ - Qizil belgi bilan belgilangani bu serveringiz hisoblanadi!
+ - chap tarafi esa Localniy(SHaxsiy kompyuteringiz!)
+ - Loyihani papkasi bilan yoki fayllarini belgilab SERVER tarafga sichqoncha yordamida sudrab olib kelish kifoya!
 
  ![WinSCP](images/w6.PNG)
 
