@@ -6,6 +6,7 @@
 1. **Amazon** saytidan hisob(аккаунт) yaratish
 2. **Ubuntu** server olish(bepul)
 3. **PuTTY** orqali serverga bog'lanish
+4. **WinSCP** orqali serverga bog'lanish
 
 <hr>
 <hr>
@@ -181,6 +182,19 @@
 
 <hr>
 <hr>
+
+# **WinSCP** orqali serverga bog'lanish! Yuklash uchun manzil >>>> [WinSCP](https://winscp.net/eng/download.php)
+ ![Amazon](images/w1.png)
+
+<hr>
+
+
+> Rasmdagidek oyna ochiladi va u yerdan **Tools** bo'limini tanlang ==> **Import Sites...** menusi tanlang va sizni **PuTTY** dasturi yordamida bo'g'langan serverlar ro'yxati chiqadi!
+ ![Amazon](images/w2.jpg)
+
+<hr>
+
+
 
 
 # *E'tiboringiz uchun rahamt* Savollaringiz bo'lsa [Telegram](https://t.me/foydamizteg_sin)
