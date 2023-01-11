@@ -184,16 +184,41 @@
 <hr>
 
 # **WinSCP** orqali serverga bog'lanish! Yuklash uchun manzil >>>> [WinSCP](https://winscp.net/eng/download.php)
- ![Amazon](images/w1.png)
+ ![WinSCP](images/w1.png)
 
 <hr>
 
 
 > Rasmdagidek oyna ochiladi va u yerdan **Tools** bo'limini tanlang ==> **Import Sites...** menusi tanlang va sizni **PuTTY** dasturi yordamida bo'g'langan serverlar ro'yxati chiqadi!
- ![Amazon](images/w2.jpg)
+
+ ![WinSCP](images/w2.jpg)
 
 <hr>
 
+> Kerkli serverni tanlab **OK** - ni bosing!
+ ![WinSCP](images/w3.PNG)
+
+<hr>
+
+> Rasmdagidek oyna ochiladi va IP manzilingiz yozilganligi e'tibor bering va **Login** -bilan serverga bog'lanishni boshlang!
+ ![WinSCP](images/w4.PNG)
+
+<hr>
+
+> Sizdan **username** kiritishni so'rashi mumkin **ubuntu** yozing va **OK**  !
+ ![WinSCP](images/w5.PNG)
+
+<hr>
+
+> Serverga bog'landik :+1:!
+> Qizil belgi bilan belgilangani bu serveringiz hisoblanadi!
+> chap tarafi esa Localniy(SHaxsiy kompyuteringiz!)
+> Loyihani papkasi bilan yoki fayllarini belgilab SERVER tarafga sichqoncha yordamida sudrab olib kelish kifoya!
+
+ ![WinSCP](images/w6.PNG)
+
+<hr>
+<hr>
 
 
 
