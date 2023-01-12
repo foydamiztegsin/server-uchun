@@ -187,14 +187,14 @@
 <hr>
 
 # **WinSCP** orqali serverga bog'lanish! Yuklash uchun manzil >>>> [WinSCP](https://winscp.net/eng/download.php)
- ![WinSCP](images/w1.png)
+ ![Amazon](images/w1.png)
 
 <hr>
 
 
 > Rasmdagidek oyna ochiladi va u yerdan **Tools** bo'limini tanlang ==> **Import Sites...** menusi tanlang va sizni **PuTTY** dasturi yordamida bo'g'langan serverlar ro'yxati chiqadi!
 
- ![WinSCP](images/w2.jpg)
+ ![Amazon](images/w2.jpg)
 
 <hr>
 
