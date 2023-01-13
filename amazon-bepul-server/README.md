@@ -15,7 +15,7 @@
 <hr>
 
 # *Amazon* saytidan profil ochish sayt manzili >>> [Amazon](https://aws.amazon.com)
-> *Hisob* yaratishdan boshlang!
+> *Hisob* yaratishdan  boshlang!
  ![Amazon](images/A1.PNG)
 
 <hr>
