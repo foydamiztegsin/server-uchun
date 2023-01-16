@@ -225,6 +225,65 @@
 <hr>
 <hr>
 
+# **PuTTY** orali loyihani serverga yuklash.
+     - Loyihani *GITHUB* - ga push qilamiz va albatta Loyiha fayllari orasida *requirements.txt* fayli bo'lishi va loyihada ishlatgan Paketlaringiz yozilganligiga                  E'tibor bering!
+     - *PuTTY* - orqali serverga bog'laning 
+     - *Loyiha* - ni *GITHUB* - dan clone qiling
+     - *Loyiha* - *GIT* - da *Public* bo'lsa sizdan *Parol* so'ramaydi aksi bo'lsa parol so'raydi!
+     - *Clone* - ni qilgach *ls* komandasini bering Loyihangiz papkasni ko'rsatishi kerak! hammasi :+1:
+     
+ ![PuTTY](images/b1.PNG)
+
+<hr>
+
+> Serverga *pip* - ni o'rnating!
+     - O'rnatishni tugashi kuting!
+     
+![PuTTY](images/b2.PNG)
+
+<hr>
+
+> *Loyiha* - papkasiga kiring *cd*!
+     - *pip install requirements.txt* Paketlarni o'rnating!
+     
+![PuTTY](images/b3.PNG)
+
+<hr>
+
+> *Loyiha* - ni ishga tushiring!
+     - Botni ishlashini tekshiring!
+     
+![PuTTY](images/b4.PNG)
+
+<hr>
+
+> *Loyiha* - ni Serverda *Doimiy* - ishlashi uchun qo'shimcha sozlamalarni o'rnating ya'niy *supervisor* - ni o'rnating!    
+![PuTTY](images/b5.PNG)
+
+<hr>
+
+> *Loyiha* - ni ichida *touch bot.conf* yordamida yangi fayl yarating!    
+     - Faylga yozish uchun *sudo nano bot.conf* komandasini bering va sizni faylga yozishingiz uchun buyruqni bajarishingiz bilan fayl ichiga yo'naltiradi!
+     
+![PuTTY](images/b6.PNG)
+
+<hr>
+
+> Rasmdagilarni Faylga yozing!    
+     - *Qizil* randagisiga belgi ichiga loyihani ishga tushirish uchun nom bering!
+     - *Oq* randagisiga belgi ichiga Loyihangizni papkasini nomini yozing!
+     - *Sariq* randagisiga belgi ichiga Loyihangizni ishga tushiradigan faylni nomi yozing!
+     - Qolgan belgi ichidagilarni Yozish Majburiy *EMAS*
+     
+![PuTTY](images/b7.PNG)
+
+<hr>
+
+> Rasmdagilarni komandani bering!
+![PuTTY](images/b8.PNG)
+
+
+
 
 
 # *E'tiboringiz uchun rahmat* Savollaringiz bo'lsa [Telegram](https://t.me/foydamizteg_sin)
