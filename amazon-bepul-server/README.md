@@ -226,25 +226,25 @@
 <hr>
 
 # **PuTTY** orali loyihani serverga yuklash.
-     - Loyihani *GITHUB* - ga push qilamiz va albatta Loyiha fayllari orasida *requirements.txt* fayli bo'lishi va loyihada ishlatgan Paketlaringiz yozilganligiga                  E'tibor bering!
-     - *PuTTY* - orqali serverga bog'laning 
-     - *Loyiha* - ni *GITHUB* - dan clone qiling
-     - *Loyiha* - *GIT* - da *Public* bo'lsa sizdan *Parol* so'ramaydi aksi bo'lsa parol so'raydi!
-     - *Clone* - ni qilgach *ls* komandasini bering Loyihangiz papkasni ko'rsatishi kerak! hammasi :+1:
+- Loyihani *GITHUB* - ga push qiling va albatta Loyiha fayllari orasida *requirements.txt* fayli bo'lishi va loyihada ishlatgan Paketlaringiz yozilganligiga  E'tibor bering!
+- *PuTTY* - orqali serverga bog'laning 
+- *Loyiha* - ni *GITHUB* - dan clone qiling
+- *Loyiha* - *GIT* - da *Public* bo'lsa sizdan *Parol* so'ramaydi aksi bo'lsa parol so'raydi!
+- *Clone* - ni qilgach *ls* komandasini bering Loyihangiz papkasni ko'rsatishi kerak! hammasi :+1:
      
  ![PuTTY](images/b1.PNG)
 
 <hr>
 
 > Serverga *pip* - ni o'rnating!
-     - O'rnatishni tugashi kuting!
+- O'rnatishni tugashi kuting!
      
 ![PuTTY](images/b2.PNG)
 
 <hr>
 
 > *Loyiha* - papkasiga kiring *cd*!
-     - *pip install requirements.txt* Paketlarni o'rnating!
+- *pip install requirements.txt* Paketlarni o'rnating!
      
 ![PuTTY](images/b3.PNG)
 
@@ -282,8 +282,17 @@
 > Rasmdagilarni komandani bering!
 ![PuTTY](images/b8.PNG)
 
+<hr>
 
+> Loyihani doimiy ishlashi uchun rasmdagi komandalarni yozing ketma-ket!
+- hammasini to'g'ri bajargan bo'lsangiz Loyiha ishga tushadi va doimiy ishlashni boshlaydi
+- loyihaga o'zgartish kiritish va qayta yangilashni keyingi bosqichlarda ko'rib chiqamiz Insha'Allah
+- Iltimos mehnatimiz sizga foyda berayotgan bolsa *GITHUB* profilimizga obuna bo'ling va telegram kanalimda reaksiyalarni qoldiring :+1:
 
+![PuTTY](images/b9.PNG)
+
+<hr>
+<hr>
 
 
 # *E'tiboringiz uchun rahmat* Savollaringiz bo'lsa [Telegram](https://t.me/foydamizteg_sin)
