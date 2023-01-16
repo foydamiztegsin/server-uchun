@@ -33,7 +33,7 @@
 <hr>
 
 
-> *Hisobingiz uchun yangi parol hosil qiling!*
+> *Hisobingiz uchun yangi parol  hosil qiling!*
  ![Amazon](images/a5.PNG)
 
 <hr>
