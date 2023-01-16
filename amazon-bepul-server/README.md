@@ -270,10 +270,10 @@
 <hr>
 
 > Rasmdagilarni Faylga yozing!    
-     - *Qizil* randagisiga belgi ichiga loyihani ishga tushirish uchun nom bering!
-     - *Oq* randagisiga belgi ichiga Loyihangizni papkasini nomini yozing!
-     - *Sariq* randagisiga belgi ichiga Loyihangizni ishga tushiradigan faylni nomi yozing!
-     - Qolgan belgi ichidagilarni Yozish Majburiy *EMAS*
+ - *Qizil* randagisiga belgi ichiga loyihani ishga tushirish uchun nom bering!
+ - *Oq* randagisiga belgi ichiga Loyihangizni papkasini nomini yozing!
+ - *Sariq* randagisiga belgi ichiga Loyihangizni ishga tushiradigan faylni nomi yozing!
+ - Qolgan belgi ichidagilarni Yozish Majburiy *EMAS*
      
 ![PuTTY](images/b7.PNG)
 
@@ -287,7 +287,7 @@
 > Loyihani doimiy ishlashi uchun rasmdagi komandalarni yozing ketma-ket!
 - hammasini to'g'ri bajargan bo'lsangiz Loyiha ishga tushadi va doimiy ishlashni boshlaydi
 - loyihaga o'zgartish kiritish va qayta yangilashni keyingi bosqichlarda ko'rib chiqamiz Insha'Allah
-- Iltimos mehnatimiz sizga foyda berayotgan bolsa *GITHUB* profilimizga obuna bo'ling va telegram kanalimda reaksiyalarni qoldiring :+1:
+- Iltimos mehnatimiz sizga foyda berayotgan bolsa *GITHUB* profilimizga obuna bo'ling va telegram kanalimizda reaksiyalarni qoldiring :+1:
 
 ![PuTTY](images/b9.PNG)
 
