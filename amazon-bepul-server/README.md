@@ -274,7 +274,7 @@
  - *Oq* randagisiga belgi ichiga Loyihangizni papkasini nomini yozing!
  - *Sariq* randagisiga belgi ichiga Loyihangizni ishga tushiradigan faylni nomi yozing!
  - Qolgan belgi ichidagilarni Yozish Majburiy *EMAS*
- - Yozib bo'lgach *ctrl + s* - ni bosing va *ctrl + x* - ni bosing fayldan ichidan chiqing!
+ - Yozib bo'lgach *ctrl + s* - ni bosing va *ctrl + x* - ni bosing fayl ichidan chiqing!
      
 ![PuTTY](images/b7.PNG)
 
