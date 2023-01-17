@@ -269,11 +269,12 @@
 
 <hr>
 
-> Rasmdagilarni Faylga yozing!    
+> Rasmdagilarni Faylga yozing(bot.conf ichiga)!    
  - *Qizil* randagisiga belgi ichiga loyihani ishga tushirish uchun nom bering!
  - *Oq* randagisiga belgi ichiga Loyihangizni papkasini nomini yozing!
  - *Sariq* randagisiga belgi ichiga Loyihangizni ishga tushiradigan faylni nomi yozing!
  - Qolgan belgi ichidagilarni Yozish Majburiy *EMAS*
+ - Yozib bo'lgach *ctrl + s* - ni bosing va *ctrl + x* - ni bosing fayldan ichidan chiqing!
      
 ![PuTTY](images/b7.PNG)
 
