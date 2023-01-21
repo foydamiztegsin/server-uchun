@@ -53,7 +53,7 @@
 <hr>
 
 
-> *Telefon raqamingizni kiriting va rasmda ko'rsatiladigan belgilarni yozing!*
+> *Telefon raqamingizni  kiriting va rasmda ko'rsatiladigan belgilarni yozing!*
 
  ![Amazon](images/a8.PNG)
 
