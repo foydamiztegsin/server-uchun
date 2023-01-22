@@ -9,7 +9,7 @@
 4. **WinSCP** orqali serverga bog'lanish
 5. **Loyiha** - ni yuklash va Serverni Sozlash
      - **Loyiha** - ni server uchun tayyorlash.
-     - **PuTTY** va **WinSCP** orali loyihani serverga yuklash.
+     - **PuTTY** va **WinSCP** orali loyihani  serverga yuklash.
 
 <hr>
 <hr>
