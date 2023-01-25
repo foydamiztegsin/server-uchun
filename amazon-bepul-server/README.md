@@ -8,13 +8,13 @@
 3. **PuTTY** orqali serverga bog'lanish
 4. **WinSCP** orqali serverga bog'lanish
 5. **Loyiha** - ni yuklash va Serverni Sozlash
-     - **Loyiha** - ni server uchun tayyorlash.
+     - **Loyiha** -  ni server uchun tayyorlash.
      - **PuTTY** va **WinSCP** orali loyihani  serverga yuklash.
 
 <hr>
 <hr>
 
-# *Amazon*  saytidan profil ochish sayt manzili >>> [Amazon](https://aws.amazon.com)
+# *Amazon*  saytidan profil  ochish sayt manzili >>> [Amazon](https://aws.amazon.com)
 > *Hisob* yaratishdan  boshlang!
  ![Amazon](images/A1.PNG)
 
@@ -28,7 +28,7 @@
 
 
 > *Pochtangizga kelgan sms kodni kiriting!*
- ![Amazon](images/a4.PNG)
+ ![Aws](images/a4.PNG)
 
 <hr>
 
@@ -274,7 +274,7 @@
  - *Oq* randagisiga belgi ichiga Loyihangizni papkasini nomini yozing!
  - *Sariq* randagisiga belgi ichiga Loyihangizni ishga tushiradigan faylni nomi yozing!
  - Qolgan belgi ichidagilarni Yozish Majburiy *EMAS*
- - Yozib bo'lgach *ctrl + s* - ni bosing va *ctrl + x* - ni bosing fayl ichidan chiqing!
+ - Yozib bo'lgach * ctrl + s* - ni bosing va *ctrl + x* - ni bosing fayl ichidan chiqing!
      
 ![PuTTY](images/b7.PNG)
 
