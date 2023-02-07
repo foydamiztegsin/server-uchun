@@ -80,7 +80,7 @@
 <hr>
 
 
-> *Hisobingizga kirish uchun qaytadan pochtangiz va parolingizni kiriting!*
+> *Hisobingizga  kirish uchun qaytadan pochtangiz va parolingizni kiriting!*
  ![Amazon](images/a12.PNG)
 
 <hr>
