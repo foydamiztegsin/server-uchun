@@ -27,7 +27,7 @@
 <hr>
 
 
-> *Pochtangizga kelgan sms kodni kiriting!*
+> *Pochtangizga kelgan  sms kodni kiriting!*
  ![Aws](images/a4.PNG)
 
 <hr>
