@@ -29,7 +29,7 @@
 <hr>
 
 
-> *Kerkli oylik paketini tanlang! 188 rubl botlar uchun yetarli *
+> *Kerakli oylik paketini tanlang! 188 rubl botlar uchun yetarli *
  ![Timeweb](images/3.PNG)
 
 <hr>
@@ -80,13 +80,16 @@
 
 <hr>
 
-> *Accept ni belgilang *
+
+> *Acceptni belgilang*
+ 
  ![Amazon](images/12.PNG)
 
 <hr>
 
 
 > *Gmailingizdan parolni oling Login odatda __root__ bo'ladi :+1:*
+ 
  ![Amazon](images/a13.PNG)
 
 <hr>
