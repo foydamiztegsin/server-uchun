@@ -90,7 +90,7 @@
 
 > *Gmailingizdan parolni oling Login odatda __root__ bo'ladi :+1:*
  
- ![Amazon](images/a13.PNG)
+ ![Amazon](images/13.PNG)
 
 <hr>
 
