@@ -4,7 +4,7 @@
 - [x] [Timeweb](https://timeweb.com/) sayti orqali pullik VDS & VPS server sotib olish va unga o'z loyihalarimizni yuklashimiz mumkin!
 
 1. **Timeweb**  saytidan hisob(аккаунт)  yaratish
-2. **Timeweb** hisobimiz(аккаунт) -ni QIWI orqali to'ldirish
+2. **Timeweb**  hisobimiz(аккаунт) -ni QIWI orqali to'ldirish
 3. **Ubuntu** server  olish
 3. **PuTTY** orqali serverga bog'lanish
 4. **WinSCP** orqali serverga  bog'lanish
