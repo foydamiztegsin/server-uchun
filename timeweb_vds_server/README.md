@@ -5,7 +5,7 @@
 
 1. **Timeweb**  saytidan hisob(аккаунт)  yaratish
 2. **Timeweb**  hisobimiz(аккаунт) -ni QIWI orqali to'ldirish
-3. **Ubuntu** server  olish
+3. **Ubuntu**  server  olish
 3. **PuTTY** orqali serverga  bog'lanish
 4. **WinSCP** orqali serverga  bog'lanish
 5. **Loyiha** - ni yuklash va  Serverni Sozlash
