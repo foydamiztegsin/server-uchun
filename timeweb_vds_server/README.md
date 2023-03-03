@@ -23,7 +23,7 @@
 <hr>
 
 
-> *Server yaratishni boshlang Ubuntu  tanlang va albatta versiyasini Tanlang xozirda 22.04 so'nggi versiya!*
+> *Server yaratishni boshlang  Ubuntu  tanlang va albatta versiyasini Tanlang xozirda 22.04 so'nggi versiya!*
  ![Timeweb](images/2.PNG)
 
 <hr>
