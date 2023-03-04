@@ -29,7 +29,7 @@
 <hr>
 
 
-> *Kerakli oylik paketini tanlang! 188 rubl botlar uchun yetarli *
+> *Kerakli  oylik paketini tanlang! 188 rubl botlar uchun yetarli *
  ![Timeweb](images/3.PNG)
 
 <hr>
