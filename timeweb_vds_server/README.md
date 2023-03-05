@@ -7,7 +7,7 @@
 2. **Timeweb**  hisobimiz(аккаунт) -ni QIWI orqali to'ldirish
 3. **Ubuntu**  server  olish
 3. **PuTTY** orqali serverga  bog'lanish
-4. **WinSCP** orqali serverga  bog'lanish
+4. **WinSCP**  orqali serverga  bog'lanish
 5. **Loyiha** - ni yuklash va  Serverni Sozlash
      - **Loyiha** -  ni server uchun tayyorlash.
      - **PuTTY** va **WinSCP**  orali loyihani  serverga yuklash.
