@@ -16,7 +16,7 @@
 <hr>
 
 # *Timeweb*  saytidan profil  ochish sayt manzili >>> [Timeweb](https://timeweb.com/)
-> *Hisob* yaratishdan  boshlang! VDS и VPS bo'limini tanlang va ro'yxatdan o'ting!
+> *Hisob*  yaratishdan  boshlang! VDS и VPS bo'limini tanlang va ro'yxatdan o'ting!
 
  ![Timeweb](images/1.PNG)
 
