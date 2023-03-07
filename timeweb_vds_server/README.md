@@ -41,7 +41,7 @@
 <hr>
 
 
-> *Server sozlamalarini tugatishingiz bilan siz tulov qilishingiz kerak! Rasmda QIWI orqali to'lov amalga oshirilgan*
+> *Server sozlamalarini tugatishingiz bilan  siz tulov qilishingiz kerak! Rasmda QIWI orqali to'lov amalga oshirilgan*
 > *QIWI* dan profil ochgan bo'lishingiz kerak yoki *VISA* orqali tulovni amalga oshirishingiz ham mumkin!
 
  ![Timeweb](images/5.PNG)
