@@ -70,7 +70,7 @@
 <hr>
 
 
-> *IP manzilingizni joylashtiring va serverni nomlang!*
+> *IP manzilingizni  joylashtiring va serverni nomlang!*
 
  ![Timeweb](images/10.PNG)
 
