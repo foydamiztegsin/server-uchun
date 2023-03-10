@@ -49,7 +49,7 @@
 <hr>
 
 
-> *QIWI profil telefon raqamingizni kiriting va Tulovni amalga amalga oshiring!*
+> *QIWI profil  telefon raqamingizni kiriting va Tulovni amalga amalga oshiring!*
 
  ![Timeweb](images/6.PNG)
 
