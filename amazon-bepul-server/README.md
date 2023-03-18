@@ -39,7 +39,7 @@
 <hr>
 
 
-> *Telefon raqamingiz va Shaxsiy ma'lumotlaringizni kiriting!*
+> *Telefon raqamingiz va  Shaxsiy ma'lumotlaringizni kiriting!*
 
  ![Amazon](images/a6.PNG)
 
