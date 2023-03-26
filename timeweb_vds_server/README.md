@@ -63,7 +63,7 @@
 <hr>
 
 
-> *Rasmda ko'rsatilgan joyda sizning IP manzilingiz bo'ladi kopiya oling va *PuTTY* dasturini oching
+> *Rasmda  ko'rsatilgan joyda sizning IP manzilingiz bo'ladi kopiya oling va *PuTTY* dasturini oching
 
  ![Timeweb](images/9.PNG)
 
