@@ -46,7 +46,7 @@
 <hr>
 
 
-> *Visa carta ma'lumotlaringizni kiriting!*
+> *Visa carta  ma'lumotlaringizni kiriting!*
 
  ![Amazon](images/a7.PNG)
 
