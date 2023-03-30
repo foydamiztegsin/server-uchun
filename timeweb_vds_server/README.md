@@ -1,7 +1,7 @@
 # __Reja__
 
 
-- [x] [Timeweb](https://timeweb.com/)  sayti orqali pullik VDS & VPS server sotib olish va unga o'z loyihalarimizni yuklashimiz mumkin!
+- [x] [Timeweb](https://timeweb.cloud/vds?utm_source=cp30907&utm_medium=timeweb&utm_campaign=timeweb-bring-a-friend)  sayti orqali pullik VDS & VPS server sotib olish va unga o'z loyihalarimizni yuklashimiz mumkin!
 
 1. **Timeweb**  saytidan hisob(аккаунт)  yaratish
 2. **Timeweb**  hisobimiz(аккаунт) -ni QIWI orqali to'ldirish
