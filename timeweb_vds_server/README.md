@@ -15,7 +15,7 @@
 <hr>
 <hr>
 
-# *Timeweb*  saytidan profil  ochish sayt manzili >>> [Timeweb](https://timeweb.com/)
+# *Timeweb*  saytidan profil  ochish sayt manzili >>> [Timeweb](https://timeweb.cloud/vds?utm_source=cp30907&utm_medium=timeweb&utm_campaign=timeweb-bring-a-friend)
 > *Hisob*  yaratishdan  boshlang! VDS и VPS bo'limini tanlang va ro'yxatdan o'ting!
 
  ![Timeweb](images/1.PNG)
