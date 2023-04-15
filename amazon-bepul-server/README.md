@@ -21,7 +21,7 @@
 <hr>
 
 
->  *Pochtangiz va  hisob nomini kiriting*
+>  *Pochtangiz va hisob nomini kiriting*
  ![Amazon](images/a2.PNG)
 
 <hr>
